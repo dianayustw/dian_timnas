@@ -1,0 +1,94 @@
+{
+    "result": [
+    {
+      "no": "1",
+      "name": "Nadeo Argawinata",
+      "birth_date": "1997-03-09",
+      "Position": "Kiper",
+      "International": "Indonesia",
+      "Team": "Borneo FC",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2021/Dec/06/61ae31c50b702/nadeo-320x_.png?token=2118c4ff6145dfe76f0ceaf27888324f"
+    },
+    {
+      "no": "5",
+      "name": "Rizky Ridho",
+      "birth_date": "2001-11-21",
+      "Position": "Bek-Tengah",
+      "International": "Indonesia",
+      "Team": "Persija Jakarta",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2023/Oct/04/651ce83784652/ridho-320x_.png?token=b1df19f085e5031b8c26bd47960a95e1"
+    },
+    {
+      "no": "3",
+      "name": "Elkan Baggott",
+      "birth_date": "2002-10-23",
+      "Position": "Bek-Tengah",
+      "International": "Indonesia",
+      "Team": "Ipswich Town",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2023/Oct/04/651cea811d1dd/elkan-320x_.png?token=ae9a96a2fb30400ec50e79ea060b7f81"
+    },
+    {
+      "no": "12",
+      "name": "Pratama Arhan",
+      "birth_date": "2001-12-21",
+      "Position": "Bek-Kiri",
+      "International": "Indonesia",
+      "Team": "Tokyo Verdy",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2023/Oct/04/651cf63f6aca1/arhan-320x_.png?token=f08695b62db2194efdbde7ed1c67249b"
+    },
+    {
+      "no": "20",
+      "name": "Shayne Pattynama",
+      "birth_date": "1998-08-11",
+      "Position": "Bek-Kiri",
+      "International": "Indonesia",
+      "Team": "Viking FK",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2023/Oct/04/651cf077c3ee4/shayne-320x_.jpg?token=6b63f0a58a75e4c03fe702ce5eabdfb9"
+    },
+    {
+      "no": "14",
+      "name": "Asnawi Mangkualam",
+      "birth_date": "1999-10-04",
+      "Position": "Bek-Kanan",
+      "International": "Indonesia",
+      "Team": "Jeonnam Dragons",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2021/Dec/06/61ae263d7a94e/asnawi-mangkualam-bahar-320x_.png?token=11f2616d3a8a4991269f69cc0a5b6c20"
+    },
+    {
+      "no": "10",
+      "name": "Egy Maulana Vikri",
+      "birth_date": "2000-07-07",
+      "Position": "Gelandang",
+      "International": "Indonesia",
+      "Team": "Dewa United",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2021/Dec/06/61ae351067871/egy-320x_.png?token=b86e5cc622c0dc365f7d0b1006278c93"
+    },
+    {
+      "no": "8",
+      "name": "Witan Sulaeman",
+      "birth_date": "2001-10-8",
+      "Position": "Gelandang",
+      "International": "Indonesia",
+      "Team": "Persija Jakarta",
+      "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2023/Oct/04/651cff463038b/witan-320x_.png?token=5121e40f18a3d6f4282ceb099b132e37"
+    },
+    {
+        "no": "7",
+        "name": "Rafael Struick",
+        "birth_date": "2003-03-27",
+        "Position": "Penyerang",
+        "International": "Indonesia",
+        "Team": "ADO Den Haag",
+        "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2023/Oct/04/651d0635932d6/rafael-struick-entrance-320x_.jpg?token=c4234617c8b8b2b6d3b7c8c7e8e14db8"
+    },
+    {
+        "no": "16",
+        "name": "Hokky Caraka",
+        "birth_date": "2004-08-21",
+        "Position": "Penyerang",
+        "International": "Indonesia",
+        "Team": "PSS Sleman",
+        "Poster": "https://www.pssi.org/files/uploads/player/photo_action/2023/Oct/13/652910bff2491/hokky-320x_.jpg?token=5b0a3788af99bcd426384a81635285c9"
+    }
+   ]
+  }
